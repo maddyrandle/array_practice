@@ -3,3 +3,5 @@ var babyNames = ["Maddy", "Kate", "Payton"]
 var trueOrFalse = [true, false]
 
 babyNames.pop()
+
+lotteryNumbers.includes(44)
