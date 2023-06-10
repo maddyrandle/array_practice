@@ -5,3 +5,5 @@ var trueOrFalse = [true, false]
 babyNames.pop()
 
 lotteryNumbers.includes(44)
+
+lotteryNumbers.slice(2, 4)
